@@ -1,0 +1,12 @@
+{
+  "name": "gusanito-premium",
+  "version": "1.0.0",
+  "description": "Juego del gusanito con ranking y tickets vía WhatsApp",
+  "main": "game.js",
+  "scripts": {
+    "start": "echo \"Juego listo\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
