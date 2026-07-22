@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0f172a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#contenedor-juego {
+    box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);
+    border-radius: 12px;
+    overflow: hidden;
+}
